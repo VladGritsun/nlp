@@ -22,46 +22,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="hw1.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="hw2.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw2/hw2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="29" selection-start="909" selection-end="909" vertical-scroll-proportion="0.5168919">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hw1.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="138" column="17" selection-start="3667" selection-end="3667" vertical-scroll-proportion="-0.17567568">
-              <folding>
-                <element signature="e#84#777#0" expanded="false" />
-                <element signature="e#810#1025#0" expanded="false" />
-                <element signature="e#1062#1698#0" expanded="false" />
-                <element signature="e#1739#2238#0" expanded="false" />
-                <element signature="e#2276#2796#0" expanded="false" />
-                <element signature="e#2844#3325#0" expanded="false" />
-                <element signature="e#3356#3524#0" expanded="false" />
-                <element signature="e#5448#6025#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample.dev" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample.dev">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="10" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="count_freqs.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/count_freqs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="19" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eval_gene_tagger.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eval_gene_tagger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="253" column="12" selection-start="9665" selection-end="9665" vertical-scroll-proportion="0.0">
+            <state line="166" column="43" selection-start="4656" selection-end="4675" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -84,6 +57,8 @@
       <list>
         <option value="$PROJECT_DIR$/sample.dev" />
         <option value="$PROJECT_DIR$/hw1.py" />
+        <option value="$PROJECT_DIR$/hw1_3.py" />
+        <option value="$PROJECT_DIR$/hw2/hw2.py" />
       </list>
     </option>
   </component>
@@ -119,6 +94,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -137,9 +113,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nlp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nlp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,7 +143,7 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.hw1">
+  <component name="RunManager" selected="Python.hw2">
     <configuration default="false" name="hw1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,6 +156,44 @@
       <module name="nlp" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="MULTIPROCESS" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="hw1_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="nlp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw1_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="MULTIPROCESS" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="hw2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="nlp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw2/hw2.py" />
       <option name="PARAMETERS" value="" />
       <option name="MULTIPROCESS" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
@@ -228,8 +255,10 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.hw1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.hw1_3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.hw2" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -267,11 +296,11 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22321428" sideWeight="0.66450566" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3873582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2224026" sideWeight="0.37115073" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21393842" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33549434" sideWeight="0.9984326" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.62884927" sideWeight="0.9984326" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -337,58 +366,64 @@
           <url>file://$PROJECT_DIR$/hw1.py</url>
           <line>148</line>
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/hw2/hw2.py</url>
+          <line>62</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/hw2/hw2.py</url>
+          <line>90</line>
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gene.train">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="4" selection-start="297" selection-end="297" vertical-scroll-proportion="-1.2635136">
-          <folding />
-        </state>
+        <state line="36" column="4" selection-start="297" selection-end="297" vertical-scroll-proportion="-1.2635136" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gene.key">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/count_freqs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="19" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eval_gene_tagger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="253" column="12" selection-start="9665" selection-end="9665" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample.dev">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="10" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="20" column="10" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eval_gene_tagger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="253" column="12" selection-start="9665" selection-end="9665" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="178" column="57" selection-start="5208" selection-end="5208" vertical-scroll-proportion="7.8597403" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count_freqs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="19" selection-start="543" selection-end="543" vertical-scroll-proportion="0.044155844" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2/tree.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="17" selection-start="3667" selection-end="3667" vertical-scroll-proportion="-0.17567568">
-          <folding>
-            <element signature="e#84#777#0" expanded="false" />
-            <element signature="e#810#1025#0" expanded="false" />
-            <element signature="e#1062#1698#0" expanded="false" />
-            <element signature="e#1739#2238#0" expanded="false" />
-            <element signature="e#2276#2796#0" expanded="false" />
-            <element signature="e#2844#3325#0" expanded="false" />
-            <element signature="e#3356#3524#0" expanded="false" />
-            <element signature="e#5448#6025#0" expanded="false" />
-          </folding>
+        <state line="166" column="43" selection-start="4656" selection-end="4675" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2/hw2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="29" selection-start="909" selection-end="909" vertical-scroll-proportion="0.5168919">
+          <folding />
         </state>
       </provider>
     </entry>
